@@ -48,4 +48,10 @@ public class amazon {
 	public void forGit() {
 		System.out.println("add method for git");
 	}
+	public void gitMethod() {
+		System.out.println("12344");
+	}
+	public void jstMethod() {
+		System.out.println("just git");
+	}
 }
